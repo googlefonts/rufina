@@ -1,0 +1,8 @@
+buildVariable: false
+removeOutlineOverlaps: false
+noProductionNames: true
+reverseOutlineDirection: false
+autohintTTF: false
+sources:
+  - Rufina-Bold.glyphs
+  - Rufina-Regular.glyphs
